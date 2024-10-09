@@ -19,7 +19,7 @@
   let activeUrl: string = "";
   let innerWidth: number;
 
-  const name = "AstroNot"; // TODO: Make this a param, site config
+  const name = "Eyestorm EA"; // TODO: Make this a param, site config
 
   $: isHamburgerMenu = innerWidth < HAMBURGER_BREAKPOINT;
 
